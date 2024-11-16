@@ -32,11 +32,13 @@ Provides a comprehensive understanding of PCOS risk factors.
 
 
 
-requirements.txt: Python dependencies required to run the project.
+**requirements.txt: 
+**
+Python dependencies required to run the project.
 **How to Run the Project**
 _1. Clone the Repository_
 
-git clone git clone https://github.com/RaagaLikhithaM/PCOD-Prediction.git
+git clone https://github.com/RaagaLikhithaM/PCOD-Prediction.git
 
 cd PCOD-Prediction
 
