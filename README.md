@@ -36,29 +36,6 @@ Provides a comprehensive understanding of PCOS risk factors.
 
 
 
-**requirements.txt:**
-
-Python dependencies required to run the project.
-**How to Run the Project**
-
-_1. Clone the Repository_
-
-git clone https://github.com/RaagaLikhithaM/PCOD-Prediction.git
-
-cd PCOD-Prediction
-
-_2. Install Dependencies_
-
-Use the requirements.txt file to install the necessary Python libraries:
-
-pip install -r requirements.txt
-
-_3. Run the Streamlit Dashboard_
-
-_Launch the dashboard locally:_
--streamlit run dashboard.py
--Open the URL provided by Streamlit in your browser (e.g., http://localhost:8501).
-
 **Technologies Used**
 Python: For analysis and development.
 
